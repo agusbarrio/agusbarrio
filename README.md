@@ -6,10 +6,6 @@
 
 ## 🛠️ Tecnologías que uso
 
-## 🛠️ Tecnologías que uso
-
-## 🛠️ Tecnologías que uso
-
 - **Lenguajes y Frameworks:**  
   JavaScript, TypeScript, Node.js, NestJS, Express, React, Next.js
 
