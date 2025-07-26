@@ -4,6 +4,20 @@
 
 ---
 
+## ⚙️ Lo que hago
+
+🚀 Proyectos personales:
+
+- 📚 **Organizador Educativo:** Gestión de estudiantes, asistencia y cursos  
+- 🛗 **Monitor de ascensores:** Telemetría en tiempo real con ESP32 usando MQTT (EMQX)  
+- 🌐 **Mi sitio personal:** [barrioeastman.com.ar](https://barrioeastman.com.ar)
+
+💼 Actualmente trabando en backend y DevOps en una [Solúnika](https://www.solunika.com).
+
+🎓 Estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN).
+
+---
+
 ## 🛠️ Tecnologías que uso
 
 - **Lenguajes y Frameworks:**  
@@ -17,18 +31,6 @@
 
 - **IoT y Microcontroladores:**  
   ESP32, PlatformIO, MQTT (mqtts://), OTA (Over-The-Air updates), NVS (Non-Volatile Storage)
-
----
-
-🚀 Proyectos personales:
-
-- 📚 **Organizador Educativo:** Gestión de estudiantes, asistencia y cursos  
-- 🛗 **Monitor de ascensores:** Telemetría en tiempo real con ESP32 usando MQTT (EMQX)  
-- 🌐 **Mi sitio personal:** [barrioeastman.com.ar](https://barrioeastman.com.ar)
-
-💼 Actualmente trabando en backend y DevOps en una [Solúnika](https://www.solunika.com).
-
-🎓 Estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN).
 
 ---
 
