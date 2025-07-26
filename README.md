@@ -12,7 +12,7 @@
 - 🛗 **Monitor de ascensores:** Telemetría en tiempo real con ESP32 usando MQTT (EMQX)  
 - 🌐 **Mi sitio personal:** [barrioeastman.com.ar](https://barrioeastman.com.ar)
 
-💼 Actualmente trabando en backend y DevOps en una [Solúnika](https://www.solunika.com).
+💼 Actualmente trabajando en backend y DevOps en [Solúnika](https://www.solunika.com).
 
 🎓 Estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN).
 
