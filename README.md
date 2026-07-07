@@ -1,44 +1,34 @@
-# ¡Hola! Soy Agustín 👋
+# Hi! I'm Agustín 👋
 
-🧑‍💻 Como desarrollador full-stack, me apasiona crear soluciones tecnológicas que simplifican problemas complejos mediante sistemas prácticos, modulares y seguros.
-
----
-
-## ⚙️ Lo que hago
-
-🚀 Proyectos personales:
-
-- 📚 **Organizador Educativo:** Gestión de estudiantes, asistencia y cursos  
-- 🛗 **Monitor de ascensores:** Telemetría en tiempo real con ESP32 usando MQTT (EMQX)  
-- 🌐 **Mi sitio personal:** [barrioeastman.com.ar](https://barrioeastman.com.ar)
-
-💼 Actualmente trabajando en backend y DevOps en [Solúnika](https://www.solunika.com).
-
-🎓 Estudiante de Ingeniería en Sistemas de Información en la Universidad Tecnológica Nacional (UTN).
+🧑‍💻 As a Backend Developer, I am passionate about engineering software solutions that simplify complex problems through modular, secure, and production-ready systems.
 
 ---
 
-## 🛠️ Tecnologías que uso
+## ⚙️ What I Do
 
-- **Lenguajes y Frameworks:**  
-  JavaScript, TypeScript, Node.js, NestJS, Express, React, Next.js
+🚀 Featured Projects:
 
-- **Bases de datos:**  
-  MySQL, PostgreSQL, MongoDB, Redis
+- 🛗 **Elevator Monitoring System:** Real-time telemetry utilizing ESP32 microcontrollers and secure MQTT (EMQX) data streaming.
+- 🌐 **Personal Website:** [barrioeastman.com.ar/en](https://barrioeastman.com.ar/en)
 
-- **Infraestructura y DevOps:**  
-  Docker, Docker Compose, Nginx, CI/CD, VPS, configuración de DNS
-
-- **IoT y Microcontroladores:**  
-  ESP32, PlatformIO, MQTT (mqtts://), OTA (Over-The-Air updates), NVS (Non-Volatile Storage)
+💼 Currently working on Backend Architecture and DevOps at [Solúnika](https://www.solunika.com).
 
 ---
 
-## 📫 Contacto
+## 🛠️ Technologies & Tools
+
+- **Languages & Frameworks:** TypeScript, Node.js, NestJS, Express, React, Next.js
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Infrastructure & DevOps:** Docker, Docker Compose, Nginx, CI/CD, Cloud VPS, DNS Configuration
+- **IoT & Hardware:** ESP32, PlatformIO, MQTT (mqtts://), OTA Updates, NVS (Non-Volatile Storage)
+
+---
+
+## 📫 Connect with me
 
 - 📧 agusbarrioeastman@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/agustin-adolfo-barrio-eastman)  
 
 ---
 
-🛎️ Siempre aprendiendo, creando y experimentando.
+🛎️ Always building, optimizing, and exploring new technologies.
