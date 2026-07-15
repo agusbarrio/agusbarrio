@@ -1,6 +1,6 @@
 # Hi! I'm Agustín 👋
 
-🧑‍💻 As a Backend Developer, I am passionate about engineering software solutions that simplify complex problems through modular, secure, and production-ready systems.
+🧑‍💻 I'm a Full Stack Developer specializing in Node.js, React, and TypeScript, with a strong focus on backend architecture, scalable systems, and production-ready solutions.
 
 ---
 
@@ -8,18 +8,24 @@
 
 🚀 Featured Projects:
 
-- 🛗 **Elevator Monitoring System:** Real-time telemetry utilizing ESP32 microcontrollers and secure MQTT (EMQX) data streaming.
+- 🛗 **Elevator Monitoring System:** Real-time IoT monitoring solution using ESP32 microcontrollers, NestJS backend, and secure MQTT (EMQX) communication.
+
 - 🌐 **Personal Website:** [barrioeastman.com.ar/en](https://barrioeastman.com.ar/en)
 
-💼 Currently working on Backend Architecture and DevOps at [Solúnika](https://www.solunika.com).
+💼 Currently working on Full Stack development, backend architecture, and DevOps at [Solúnika](https://www.solunika.com).
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 - **Languages & Frameworks:** TypeScript, Node.js, NestJS, Express, React, Next.js
+
 - **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+
 - **Infrastructure & DevOps:** Docker, Docker Compose, Nginx, CI/CD, Cloud VPS, DNS Configuration
+
+- **APIs & Protocols:** REST, GraphQL, JWT, WebSockets, MQTT
+
 - **IoT & Hardware:** ESP32, PlatformIO, MQTT (mqtts://), OTA Updates, NVS (Non-Volatile Storage)
 
 ---
@@ -27,7 +33,8 @@
 ## 📫 Connect with me
 
 - 📧 agusbarrioeastman@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/agustin-adolfo-barrio-eastman)  
+
+- 🔗 [LinkedIn](https://linkedin.com/in/agustin-adolfo-barrio-eastman)
 
 ---
 
